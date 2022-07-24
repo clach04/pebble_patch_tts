@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pebble exes
+*.pbw
+
+.pebble-patch-tmp/
+
